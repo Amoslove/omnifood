@@ -268,9 +268,9 @@ body {
 
 .logos{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
-.logo img{
+.logos img{
   height: 3.2rem;
   filter: brightness(0);
   opacity: 50%;
