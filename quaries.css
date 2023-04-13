@@ -10,7 +10,7 @@
   .gallery{
     grid-template-columns: repeat(2, 1fr);
   }
-  .logo{
+  .logos{
     text-align: center;
   }
 }
@@ -45,7 +45,7 @@
   .testimonials-container{
     padding: 9.6rem 3.2rem;
   }
-  .logo{
+  .logos{
     text-align: center;
   }
 }
@@ -77,7 +77,7 @@
     text-align: center;
   }
 
-  .logo img{
+  .logos img{
     height: 2.4rem;
   }
   .step-number{
@@ -187,8 +187,9 @@
     grid-column: span 2;
     margin-bottom: 3.2rem;
   }
-  .logo{
+  .logos img{
     text-align: center;
+    height: 1.6rem;
   }
 
   .logo-col,
@@ -225,11 +226,12 @@
   .hero-img{
     width: 80%;
   }
-  .logo{
+  .logos{
     text-align: center;
+    height: 1.6rem;
   }
   
-  .logo img{
+  .logos img{
     height: 1.6rem;
   }
 
